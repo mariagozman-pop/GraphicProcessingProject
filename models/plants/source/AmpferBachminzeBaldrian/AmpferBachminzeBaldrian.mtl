@@ -1,0 +1,41 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Ampfer_pflanze
+Ns 43.137255
+Ka 0.372567 0.372567 0.372567
+Kd 0.439200 0.611800 0.066700
+Ks 0.585000 0.585000 0.585000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\3D Games\Warrior Cats\3d\Heilpflanzen\Ampfer\ampfer_diff.png
+map_Ka D:\\3D Games\\Warrior Cats\\3d\\Heilpflanzen\\Ampfer\\ampfer_diff.png
+map_d D:\\3D Games\\Warrior Cats\\3d\\Heilpflanzen\\Ampfer\\ampfer_op.png
+
+newmtl Bachminze
+Ns 43.137255
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.585000 0.585000 0.585000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\3D Games\Warrior Cats\3d\Heilpflanzen\Bachminze\bachminze_diff.png
+map_Ka D:\\3D Games\\Warrior Cats\\3d\\Heilpflanzen\\Bachminze\\bachminze_diff.png
+map_d D:\\3D Games\\Warrior Cats\\3d\\Heilpflanzen\\Bachminze\\bachminze_op.png
+
+newmtl Baldrian
+Ns 43.137255
+Ka 0.588000 0.588000 0.588000
+Kd 0.588000 0.588000 0.588000
+Ks 0.585000 0.585000 0.585000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd D:\3D Games\Warrior Cats\3d\Heilpflanzen\Baldrian\Baldrian_diff.png
+map_Ka D:\\3D Games\\Warrior Cats\\3d\\Heilpflanzen\\Baldrian\\Baldrian_diff.png
+map_d D:\\3D Games\\Warrior Cats\\3d\\Heilpflanzen\\Baldrian\\Baldrian_op.png
