@@ -1,4 +1,4 @@
-# OpenGL Project: 3D Scene Rendering with Camera Navigation and Effects
+# OpenGL Project: 3D Scene Rendering 
 
 ## 1. Subject Specification
 This project involves developing a 3D scene using OpenGL, featuring full camera navigation, automated scene tours, lighting effects, texturing, object animations, and additional graphical enhancements. The objective is to create an interactive and visually impressive scene.
